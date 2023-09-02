@@ -1,0 +1,5 @@
+pnpm add --save-dev --save-exact prettier 
+pnpm add --save-dev lint-staged 
+pnpm add --save-dev eslint-config-prettier 
+pnpm add --save-dev eslint-plugin-prettier 
+pnpm add --save-dev @typescript-eslint/eslint-plugin
